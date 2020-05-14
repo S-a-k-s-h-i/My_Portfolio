@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0589d39d-57b5-4a09-8e7b-79ed9a254f0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bV0y1egACr3kvgrD43oNG2EGgm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python_files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my_portfolio/my_portfolio/static/images" />
+      <recent name="$PROJECT_DIR$/my_portfolio/my_portfolio/templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0589d39d-57b5-4a09-8e7b-79ed9a254f0d" name="Default Changelist" comment="" />
+      <created>1588702203977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588702203977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="503" y="100" key="FileChooserDialogImpl" timestamp="1589433496773">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="503" y="100" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1589433496773" />
+    <state x="376" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1589433475252">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="376" y="246" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1589433475252" />
+  </component>
+</project>

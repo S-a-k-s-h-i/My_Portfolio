@@ -1,0 +1,14 @@
+body{
+    background-color: #f6f5f5;
+    font-family: 'Merriweather Sans', sans-serif;
+    background: url("/static/images/201.png");
+
+}
+.nav{
+    background-color:#FFFFFF;
+
+
+}
+.nav>li>a{
+    color:black;
+}

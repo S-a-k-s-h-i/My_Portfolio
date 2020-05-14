@@ -1,0 +1,27 @@
+{% extends 'navbar.html' %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+   {% block content %}
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <link rel="stylesheet" href="{% static 'css/index.css'%}">
+</head>
+<body>
+
+    <div class="row">
+				<div class="col-md-6 leftdiv">
+						<p>Hello,</p>
+						<h1>I'M SAKSHI</h1>
+						<p>Full Stack Developer</p>
+
+				</div>
+				<div class="col-md-6 rightdiv">
+					<img alt="Bootstrap Image Preview" src="{% static 'images/my_img.jpg' %}" height="500px" width='450px'/>
+				</div>
+    </div>
+</body>
+    {% endblock %}
+</html>
